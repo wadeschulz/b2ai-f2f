@@ -1,0 +1,30 @@
+[submodule "cellmaps_pipeline"]
+	path = cellmaps_pipeline
+	url = https://github.com/idekerlab/cellmaps_pipeline.git
+[submodule "cellmaps_utils"]
+	path = cellmaps_utils
+	url = https://github.com/idekerlab/cellmaps_utils.git
+[submodule "cellmaps_imagedownloader"]
+	path = cellmaps_imagedownloader
+	url = https://github.com/idekerlab/cellmaps_imagedownloader.git
+[submodule "cellmaps_ppidownloader"]
+	path = cellmaps_ppidownloader
+	url = https://github.com/idekerlab/cellmaps_ppidownloader.git
+[submodule "cellmaps_image_embedding"]
+	path = cellmaps_image_embedding
+	url = https://github.com/idekerlab/cellmaps_image_embedding.git
+[submodule "cellmaps_ppi_embedding"]
+	path = cellmaps_ppi_embedding
+	url = https://github.com/idekerlab/cellmaps_ppi_embedding.git
+[submodule "cellmaps_coembedding"]
+	path = cellmaps_coembedding
+	url = https://github.com/idekerlab/cellmaps_coembedding.git
+[submodule "cellmaps_generate_hierarchy"]
+	path = cellmaps_generate_hierarchy
+	url = https://github.com/idekerlab/cellmaps_generate_hierarchy.git
+[submodule "hpa_densenet"]
+	path = hpa_densenet
+	url = https://github.com/wadeschulz/hpa_densenet.git
+[submodule "perturb_seq"]
+	path = perturb_seq
+	url = https://github.com/wadeschulz/Bridge2AI_Perturb_Seq_Data_Release.git
