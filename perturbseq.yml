@@ -1,0 +1,11 @@
+name: cm4ai-perturbseq
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - pip:
+    - -r perturb_seq/requirements.txt

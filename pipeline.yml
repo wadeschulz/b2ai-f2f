@@ -1,0 +1,17 @@
+name: cm4ai-pipeline
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - pip:
+    - cellmaps_pipeline
+    - pandas
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - umap
+    - networkx
